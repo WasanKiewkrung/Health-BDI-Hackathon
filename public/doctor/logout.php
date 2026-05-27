@@ -1,0 +1,1 @@
+<?php require_once __DIR__.'/../../backend/shared/auth.php'; logout_all(); header('Location: login.php'); ?>
